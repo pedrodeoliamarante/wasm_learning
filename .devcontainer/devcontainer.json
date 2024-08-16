@@ -1,0 +1,4 @@
+{
+  "name":"webassembly project",
+  "dockerFile":"Dockerfile"
+}
